@@ -1,4 +1,7 @@
 # interview-assignment
+
+# TASK 1
+
 kubernetes-challenge
 
 # Kubernetes challenge
@@ -28,3 +31,22 @@ You can expose Minikube's Docker daemon with:
 ```shell
 $ eval (minkube docker-env)
 ```
+
+=======================================================================================================================================
+
+# TASK 2
+=======================================================================================================================================
+
+Create High-availability autoscaling kubernetes cluster with terraform .
+
+-- custer should be in private VPC .
+-- all nodes should be having private IP only no public Ip to nodes in cluster.
+
+## Instructions
+- Fork this repo
+- create terrafrom script deploying stack.
+- create makefile to deploy entire stack with teraform.
+- deploy your simple hello world application on kubernetes cluster.
+
+
+=======================================================================================================================================
