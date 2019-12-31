@@ -10,7 +10,7 @@ Deploy this application to [Minikube](https://github.com/kubernetes/minikube) an
 
 ```
 $ curl $(minikube ip)
-Hello Dan!
+Hello kube!
 ```
 
 ## Instructions
