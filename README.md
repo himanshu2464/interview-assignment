@@ -37,7 +37,7 @@ $ eval (minkube docker-env)
 # TASK 2
 =======================================================================================================================================
 
-Create High-availability autoscaling kubernetes cluster with terraform .
+Create High-availability autoscaling kubernetes cluster with terraform . on (AWS, GCP ) cloud.
 
 -- custer should be in private VPC .
 -- all nodes should be having private IP only no public Ip to nodes in cluster.
